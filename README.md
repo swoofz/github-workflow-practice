@@ -2,4 +2,7 @@
 
 ## Practicing with pull requests and forks
 
-## Hello
+* git pull upstream master
+* git checkout -b (branch)
+* git push origin (branch)
+* pull request
